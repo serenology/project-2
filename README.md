@@ -37,7 +37,7 @@ We reorganized and renamed the columns for organizational purposes and exported 
 
 # ERD & Database
 
-With QuickDBD, we created a schema to map out the relationships across the csv files. Once the schema was created, we tested the tables in PgAdmin to confirm success. Screenshots of the select statements are included to show its success. 
+With QuickDBD, we created a schema to map out the relationships across the csv files. Once the schema was created ("crowdfunding_db_schema.sql"), we created a new database called crowdfunding_db to test the tables in PgAdmin and confirm success. Screenshots of the select statements are included to show its success. 
 
 ## Authors
 
